@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class MinimumCosttoMakeatLeastOneValidPathinaGrid {
     static class Pair {
         int first, second;
         Pair(int first, int second) {
