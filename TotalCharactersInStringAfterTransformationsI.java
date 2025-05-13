@@ -1,4 +1,4 @@
-public class Solution {
+public class TotalCharactersInStringAfterTransformationsI {
     private static final int MOD = 1_000_000_007;
 
     private int addMod(int a, int b) {
